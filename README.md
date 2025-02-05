@@ -17,7 +17,7 @@
 ## ⚙️ Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/SubGhost.git
+   git clone https://github.com/Muhammad-Durjoy/Sub-Ghost.git
    cd SubGhost
    ```
 
@@ -43,7 +43,7 @@ python SubGhost.py [OPTIONS]
 ## 💡 Example Usage
 1. **Single Domain:**
    ```bash
-   python SubGhost.py -d tesla.com
+   python SubGhost.py -d Domain.com
    ```
 
 2. **Multiple Domains from File:**
@@ -61,6 +61,7 @@ python SubGhost.py [OPTIONS]
    google.com
    tesla.com
    example.com
+   Domain.com
    ```
 
 ---
@@ -80,9 +81,9 @@ Output will be saved in a `.txt` file named after the domain, e.g., `tesla.txt`.
 ---
 ## 👤 Authors
 - **Muhammad Durjoy**   
-  - [X](https://twitter.com/yourprofile)  
-  - [GitHub](https://github.com/HackfutSec)  
-  - [Teligram](https://www.linkedin.com/in/your-profile) 
+  - [X](https://x.com/MuhammadDurjoy1)  
+  - [Teligram](http://t.me/Not_Durjoy)
+  - [GitHub](https://github.com/Muhammad-Durjoy)   
 
 
 
